@@ -1,2 +1,2 @@
 # recuperacao_nodejs
-Autor: Nicole 
+Autor: Nycole Oliveira
